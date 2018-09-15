@@ -6,7 +6,6 @@
 		
 WBCD is a team preparing for <a href="https://www.diamondchallenge.org/">Diamond Challenge</a>. This team is formed up by four high school students from Shenzhen: Daniel, Bernie, Will, Christiana.
 
->>>>Daniel
 <div id="one">
 <H1>
   Daniel 
@@ -22,9 +21,9 @@ WBCD is a team preparing for <a href="https://www.diamondchallenge.org/">Diamond
 </div>
 
 
+<br>
+</br>
 
-
->>>>christiana 
 <h1>Hi! I am Christiana Kang.</h1></hr> 
 
 I serve as product manager of our team WBCD,
