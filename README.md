@@ -1,2 +1,16 @@
-# WBCD_DC
-中国深圳高中生，钻石挑战赛，WBCD小组项目在线管理
+
+<html>
+ <body>
+ 
+ <title>
+  Daniel 
+</title>
+#the team leader 
+responsible for the gameprograming part.
+
+
+
+
+
+</body>
+</html>
