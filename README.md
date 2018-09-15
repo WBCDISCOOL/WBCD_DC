@@ -1,16 +1,8 @@
-
-<html>
- <body>
- 
- <title>
+<H1>
   Daniel 
-</title>
-#the team leader 
-responsible for the gameprograming part.
+</H1><B>
+<H3>the team leader </H3>
+responsible for the gameprograming part
 
 
 
-
-
-</body>
-</html>
