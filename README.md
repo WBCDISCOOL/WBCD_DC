@@ -1,5 +1,6 @@
 # WBCD_DC
-<h1>中国深圳高中生，钻石挑战赛，WBCD小组项目在线管理</h1>
+# 中国深圳高中生，钻石挑战赛，WBCD小组项目在线管理
 
-<h3> Hello World!</h3>
+<h6> WBCD is a team preparing for <a herf="https://diamondchallenge.org/"Diamond Challenge</a>. This team is formed up by four high school students from Shenzhen: Daniel, Bernie, Will, Christiana. </h6>
+
 
