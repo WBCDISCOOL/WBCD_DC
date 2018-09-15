@@ -2,8 +2,9 @@
   Daniel 
   <hr/>
 </H1><B>
-<H3>the team leader 
-<Br/>responsible for the gameprograming part
+<body bgcolor="yellow">
+  <H3>the team leader 
+  <Br/>responsible for the gameprograming part
 
-</H3>
-
+  </H3>
+</body>
