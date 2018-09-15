@@ -8,7 +8,7 @@ WBCD is a team preparing for <a href="https://www.diamondchallenge.org/">Diamond
 
 <div id="one">
 <H1>
- Hi! I am Christiana Daniel Lu
+ Hi! I am Daniel Lu
 </H1><B>
 <body bgcolor="yellow">
   <H3>the team leader 
