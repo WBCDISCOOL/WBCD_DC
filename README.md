@@ -22,5 +22,5 @@ WBCD is a team preparing for <a href="https://www.diamondchallenge.org/">Diamond
 
 <h1>Hi! I am Christiana Kang.</h1></hr> 
 
-I serve as product manager of our team WBCD,
-who is responble for investigating, selecting, driving the development of our product,and performing the activities of product management: determining product orientation, as to satisfy intended demographic's needs by research, evaluating market trends and competition as to decide the feature of our product by setting up a vison of our product or bussiness decision framework, developing product sales strategies, setting product development programs, preparing return-on-investment and profitibility analyses, and following up work results.  
+I am a student of Basis International School Guangzhou. I serve as product manager of our team WBCD in this program, who is responble for investigating, selecting, driving the development of our product,and performing the activities of product management: determining product orientation, as to satisfy intended demographic's needs by research, evaluating market trends and competition as to decide the feature of 
+our product by setting up a vison of our product or bussiness decision framework, developing product sales strategies, setting product development programs, preparing return-on-investment and profitibility analyses, and following up work results.  
