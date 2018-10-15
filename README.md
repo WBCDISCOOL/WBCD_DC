@@ -39,11 +39,9 @@ or bussiness decision framework, developing product sales strategies, setting pr
 preparing return-on-investment and profitibility analyses, and following up work results.  
 
 
-  
-<br>
-</br>
+
     
-    Will
+  <h1>Hi! I am WILL</h1></hr> 
     
 
     
