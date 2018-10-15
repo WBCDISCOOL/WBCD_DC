@@ -1,14 +1,5 @@
 
-  
-    
-    Will
-    
 
-    
-    I am from Shenzhen Senior high school.
-    It is my first time to participate the Diamond Challenge.
-    In the team, I am responsible for the structure and mechanism of the program.
-    I expect my team can do our best to achieve our expectation.
 
 
 <h1> WBCD For Diamond Challenge </h1>
@@ -46,5 +37,19 @@ as to satisfy intended demographic's needs by research, evaluating market trends
 competition as to decide the feature of our product by setting up a vison of our product
 or bussiness decision framework, developing product sales strategies, setting product development programs,
 preparing return-on-investment and profitibility analyses, and following up work results.  
+
+
+  
+<br>
+</br>
+    
+    Will
+    
+
+    
+    I am from Shenzhen Senior high school.
+    It is my first time to participate the Diamond Challenge.
+    In the team, I am responsible for the structure and mechanism of the program.
+    I expect my team can do our best to achieve our expectation.
 
 
