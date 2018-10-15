@@ -1,4 +1,14 @@
 
+  
+    
+    Will
+    
+
+    
+    I am from Shenzhen Senior high school.
+    It is my first time to participate the Diamond Challenge.
+    In the team, I am responsible for the structure and mechanism of the program.
+    I expect my team can do our best to achieve our expectation.
 
 
 <h1> WBCD For Diamond Challenge </h1>
